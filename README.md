@@ -1,4 +1,4 @@
-# Diaz's Portfolio
+# Diaz's Portfolio Projects
 Collection of my portfolio projects
 
 # [Project 1: Data Analyst Job Research](https://github.com/diazridzky/Data-Analyst-Job)
