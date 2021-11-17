@@ -4,7 +4,7 @@ Collection of my portfolio projects
 # [Project 1: Data Analyst Job Research](https://github.com/diazridzky/Data-Analyst-Job)
 This project is an analysis on the US data analyst jobs data with the hopes of providing an insight to data analysts when they're looking for a job and also predict the job's salary to help data analysts negotiate their income when they get a job.
 
-![jobs_loc_states](https://user-images.githubusercontent.com/60106788/142207464-3341e7e5-479f-45c8-8256-4c549b5769bd.png)
+![tools](https://user-images.githubusercontent.com/60106788/142211120-bb9ced0d-6eab-46e0-b9ca-f01f932a8ae7.PNG)
 
 # [Project 2: Analysis of US Police Shootings](https://github.com/diazridzky/US-Fatal-Police-Shootings)
 This project is an analysis on the data containing every fatal police shooting in the US with the purpose of understanding the trend of these incidents and trying to solve what factors made the shootings occurred.
