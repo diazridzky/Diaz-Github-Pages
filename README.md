@@ -1,4 +1,4 @@
-# Diaz's Portfolio Projects
+Here are my portfolio projects. Feel free to view and give an opinion on them 👍.
 
 ![pexels-lukas-669615](https://user-images.githubusercontent.com/60106788/142340555-2f3325f7-eb9f-424e-8039-ce0f9a480a00.jpg)
 
