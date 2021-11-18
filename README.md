@@ -1,6 +1,8 @@
 # Diaz's Portfolio Projects
 Collection of my portfolio projects
 
+![pexels-lukas-669615](https://user-images.githubusercontent.com/60106788/142340555-2f3325f7-eb9f-424e-8039-ce0f9a480a00.jpg)
+
 # [Project 1: Data Analyst Job Research](https://github.com/diazridzky/Data-Analyst-Job)
 This project is an analysis on the US data analyst jobs data with the hopes of providing an insight to data analysts when they're looking for a job and also predict the job's salary to help data analysts negotiate their income when they get a job.
 
