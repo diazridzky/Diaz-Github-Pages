@@ -9,7 +9,8 @@ This project is an analysis on the US data analyst jobs data with the hopes of p
 ![tools](https://user-images.githubusercontent.com/60106788/142211120-bb9ced0d-6eab-46e0-b9ca-f01f932a8ae7.PNG)
 
 # [Project 2: Analysis of US Police Shootings](https://github.com/diazridzky/US-Fatal-Police-Shootings)
-This project is an analysis on the data containing every fatal police shooting in the US with the purpose of understanding the trend of these incidents and trying to solve what factors made the shootings occurred.
+This project is an analysis on the data containing every fatal police shooting in the US with the purpose of understanding the trend of these incidents and trying to solve what factors made the shootings occurred. I also created a dashboard with Tableau for people to interact.
+Link to the Tableau dashboard: https://public.tableau.com/app/profile/diaz.ridzky.anandianto/viz/USPoliceShootingsDashboard/Dashboard
 
 ![state_cases](https://user-images.githubusercontent.com/60106788/142207497-d86188cd-683e-4093-8493-998964cbbb83.png)
 
