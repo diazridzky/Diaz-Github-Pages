@@ -13,7 +13,7 @@ This project is an analysis on the data containing every fatal police shooting i
 
 Link to the Tableau dashboard: https://public.tableau.com/app/profile/diaz.ridzky.anandianto/viz/USPoliceShootingsDashboard/Dashboard
 
-![by_race](https://user-images.githubusercontent.com/60106788/144365570-f22de86d-7ea3-4762-a917-65d4c0126d59.PNG)
+![Dashboard](https://user-images.githubusercontent.com/60106788/144366354-929833a6-d12e-411d-be32-9a80f9079efe.png)
 
 # [Project 3: Customer Personality Clustering](https://github.com/diazridzky/Customer-Personality-Segmentation)
 This project is a clustering on a company's customers to learn the customer's information and behavior so the company could improve their knowledge of their customers and make better decisions.
